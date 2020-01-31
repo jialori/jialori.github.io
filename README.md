@@ -1,10 +1,4 @@
-## Hello! 
-
-You can use the [editor on GitHub](https://github.com/jialori/jialori.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### What I Do
+## What I Do
 ##### Thigns I'm skilled at and passionate about.
 
 Game Design
@@ -12,8 +6,15 @@ Game Development
 Computer Graphics
 Artificial Intelligence
 
-### Projects
+## Projects
 ##### Some of my latest work.
+
+| head1        |           | |
+|:-------------|:------------------|:------|
+| DUET           | good swedish fish | nice  |
+| Trash Panda | good and plenty   | nice  |
+| IR:IS           | good `oreos`      | hmm   |
+| Shader           | good `zoute` drop | yumm  |
 
 DUET - A One-Stop Licensing Solution for Starting Business Owners. 
 ##### MERN Stack
@@ -30,11 +31,11 @@ Shader
 ##### glsl
 
 
-### About Me
+## About Me
 ##### Get to know me.
 
 
-### Contact Me
+## Contact Me
 ##### Get in touch.
 
 
