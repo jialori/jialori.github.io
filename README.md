@@ -1,20 +1,29 @@
 ## What I Do
 ##### Thigns I'm skilled at and passionate about.
 
-Game Design
-Game Development
-Computer Graphics
-Artificial Intelligence
+I enjoy learning and building at the intersection of technology and art.
+- Game Design
+- Game Development
+- Computer Graphics
+- Artificial Intelligence
 
 ## Projects
 ##### Some of my latest work.
 
-| head1        |           | |
+|DUET `<coming>` <br> MERN Stack |![DUET] (./images/duet.png)    |
+|:-------------|:------------------|
+|              |  A One-Stop Licensing Solution for Starting Business Owners.  |
+  
+![TrashPanda] (./images/duet.png)   
+| Trash Panda | Unity, C#   | A 3D Action Platform Game  |
+
+| ![IRIS] (./images/duet.png)     ||
 |:-------------|:------------------|:------|
-| DUET           | good swedish fish | nice  |
-| Trash Panda | good and plenty   | nice  |
-| IR:IS           | good `oreos`      | hmm   |
-| Shader           | good `zoute` drop | yumm  |
+| IR:IS `<coming>`          | Unity, C#      | A 3D Infinite Runner Game  |
+  
+| ![Shader] (./images/duet.png)     ||
+|:-------------|:------------------|:------|
+| Shader           | glsl |   |
 
 DUET - A One-Stop Licensing Solution for Starting Business Owners. 
 ##### MERN Stack
