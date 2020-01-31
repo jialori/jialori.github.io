@@ -14,7 +14,7 @@ I enjoy learning and building at the intersection of technology and art.
 |:-------------|:------------------|
 |              |  A One-Stop Licensing Solution for Starting Business Owners.  |
 
-|TrashPanda <br> `Unity, C#` |![TrashPanda] (./images/duet.png)    |
+|TrashPanda <br> `Unity, C#` |![TrashPanda] (./images/trash-panda.png)    |
 |:-------------|:------------------|
 |              |  [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3) <br> A 3D Action Platform Game.  |
 
@@ -40,9 +40,11 @@ At times when I'm not pondering design decisions, learning code, or cramming for
 Feel free to get in touch! I'm always up for great dev ideas or opportunities or casual chat.
 
 
-## Contact Me
+## Contact
 ##### Get in touch.
-
+- [GitHub](https://github.com/jialori)
+- [LinkedIn](https://www.linkedin.com/in/lori-jia-487030138/)
+- [Resume](https://drive.google.com/open?id=1xBoQev8nE7k00Np-H0JbqncXR44-roNY)
 
 
 
