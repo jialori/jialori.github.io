@@ -10,19 +10,19 @@ I enjoy learning and building at the intersection of technology and art.
 ## Projects
 ##### Some of my latest work.
 
-|DUET _<coming>_ <br> `MERN Stack` |![DUET] (./images/duet.png)    |
+|DUET <coming> <br> `MERN Stack` |![DUET](./images/duet.png)    |
 |:-------------|:------------------|
 |              |  A One-Stop Licensing Solution for Starting Business Owners.  |
 
-|TrashPanda <br> `Unity, C#` |![TrashPanda] (./images/trash-panda.png)    |
+|TrashPanda <br> `Unity, C#` |![TrashPanda](./images/trash-panda.PNG)    |
 |:-------------|:------------------|
 |              |  [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3) <br> A 3D Action Platform Game.  |
 
-| IR:IS _<coming>_ <br> `Unity, C#`  |![IR-IS] (./images/duet.png)|
+| IR:IS <coming> <br> `Unity, C#`  |![IR-IS](./images/duet.png)|
 |:-------------|:------------------|
 |              | A 3D Infinite Runner Game.  |
   
-| Shader <br> `glsl`    | ![Shader] (./images/duet.png)|
+| Shader <br> `glsl`    | ![Shader](./images/duet.png)|
 |:-------------|:------------------|
 |              |  |   
 
