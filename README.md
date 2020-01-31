@@ -10,38 +10,34 @@ I enjoy learning and building at the intersection of technology and art.
 ## Projects
 ##### Some of my latest work.
 
-|DUET `<coming>` <br> MERN Stack |![DUET] (./images/duet.png)    |
+|DUET _<coming>_ <br> `MERN Stack` |![DUET] (./images/duet.png)    |
 |:-------------|:------------------|
 |              |  A One-Stop Licensing Solution for Starting Business Owners.  |
+
+|TrashPanda <br> `Unity, C#` |![TrashPanda] (./images/duet.png)    |
+|:-------------|:------------------|
+|              |  [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3) <br> A 3D Action Platform Game.  |
+
+| IR:IS _<coming>_ <br> `Unity, C#`  |![IR-IS] (./images/duet.png)|
+|:-------------|:------------------|
+|              | A 3D Infinite Runner Game.  |
   
-![TrashPanda] (./images/duet.png)   
-| Trash Panda | Unity, C#   | A 3D Action Platform Game  |
+| Shader <br> `glsl`    | ![Shader] (./images/duet.png)|
+|:-------------|:------------------|
+|              |  |   
 
-| ![IRIS] (./images/duet.png)     ||
-|:-------------|:------------------|:------|
-| IR:IS `<coming>`          | Unity, C#      | A 3D Infinite Runner Game  |
-  
-| ![Shader] (./images/duet.png)     ||
-|:-------------|:------------------|:------|
-| Shader           | glsl |   |
-
-DUET - A One-Stop Licensing Solution for Starting Business Owners. 
-##### MERN Stack
-##### Coming. 
-
-Trash Panda - 3D Action Platform Game where You Play as a Badass Raccoon.  
-##### Unity, C#
-
-IR:IS - 3D Infinite Runner Game with Beautiful Graphics and Calming Gameplay 
-##### Unity, C#
-##### Coming.
-
-Shader  
-##### glsl
 
 
 ## About Me
 ##### Get to know me.
+
+Hello! This is Lori Jia, a Computer Science student at The University of Toronto. Since I discovered my interest in creating games (or  interactive art) in September 2019, I've been working on two Unity games, _Trash Panda_ with a cross-disciplinary team, and _IR:IS_ by myself. 
+
+After I found my passion in games, I started to become interested in _Computer Graphics_. I spend hours on websites like [Shadertoy](www.shadertoy.com) to learn from the experts. Academically, I focused on _Artificial Intelligence_ and _Theory of Computation_. I also enjoy designing and developing to solve pain points in life. 
+
+At times when I'm not pondering design decisions, learning code, or cramming for school, I watch anime, [draw](https://www.pixiv.net/en/users/9644834), or swim. 
+
+Feel free to get in touch! I'm always up for great dev ideas or opportunities or casual chat.
 
 
 ## Contact Me
