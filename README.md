@@ -1,12 +1,45 @@
-## Welcome to GitHub Pages
+## Hello! 
 
 You can use the [editor on GitHub](https://github.com/jialori/jialori.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What I Do
+##### Thigns I'm skilled at and passionate about.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Game Design
+Game Development
+Computer Graphics
+Artificial Intelligence
+
+### Projects
+##### Some of my latest work.
+
+DUET - A One-Stop Licensing Solution for Starting Business Owners. 
+##### MERN Stack
+##### Coming. 
+
+Trash Panda - 3D Action Platform Game where You Play as a Badass Raccoon.  
+##### Unity, C#
+
+IR:IS - 3D Infinite Runner Game with Beautiful Graphics and Calming Gameplay 
+##### Unity, C#
+##### Coming.
+
+Shader  
+##### glsl
+
+
+### About Me
+##### Get to know me.
+
+
+### Contact Me
+##### Get in touch.
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +61,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jialori/jialori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
