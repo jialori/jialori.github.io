@@ -14,6 +14,45 @@ I enjoy learning and building at the intersection of technology and art:
 ## Projects
 ##### Some of my latest work.
 
+<table style="width:100%">
+  <tr>
+    <th width="35%"></th>
+    <th width="65%"></th>
+  </tr>
+  <tr>
+    <td>
+    	![TrashPanda](./images/trash-panda.PNG)
+	</td>
+    <td>
+    	Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br> <i class="fas fa-bullhorn fa-fw fa-spin"></i> Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)!
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	![IR-IS](./images/ir-is.png)
+	</td>
+    <td>
+    	IR:IS <br> `Unity` <br> `C#`  <br> A 3D Infinite Runner Game.
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	![Shader](./images/shader.png)
+	</td>
+    <td>
+    	Shader <br> `GLSL` 
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	![DUET](./images/duet.png)
+	</td>
+    <td>
+    	Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners. 
+    </td>
+  </tr>
+</table>
+
 |  |  |
 |:-------------:|:------------------|
 | ![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
