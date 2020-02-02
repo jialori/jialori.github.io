@@ -14,52 +14,12 @@ I enjoy learning and building at the intersection of technology and art:
 ## Projects
 ##### Some of my latest work.
 
-<table style="width:100%">
-  <tr>
-    <th width="35%"></th>
-    <th width="65%"></th>
-  </tr>
-  <tr>
-    <td>
-		<a href="./images/trash-panda.PNG"></a>
-	</td>
-    <td>
-    	Trash Panda <br> <pre>Unity</pre>  <pre>C#</pre> <br> A 3D Action Platform Game.  <br> <i class="fas fa-bullhorn fa-fw fa-spin"></i> Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)!
-    </td>
-  </tr>
-  <tr>
-    <td>
-		<a href="./images/ir-is.png"></a>
-	</td>
-    <td>
-    	IR:IS <br> `Unity` <br> `C#`  <br> A 3D Infinite Runner Game.
-    </td>
-  </tr>
-  <tr>
-    <td>
-    	 <a href="./images/shader.png"></a>
-	</td>
-    <td>
-    	Shader <br> `GLSL` 
-    </td>
-  </tr>
-  <tr>
-    <td>
-		<a href="./images/duet.png"></a>
-	</td>
-    <td>
-    	Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners. 
-    </td>
-  </tr>
-</table>
-
-| <img src="" width="200"/> | <img src="" width="300"/> |
+| <img src="" width="350"/> | <img src="" width="300"/> |
 |:-------------:|:------------------|
-| ![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
-|![TrashPanda](./images/trash-panda.PNG)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br> <i class="fas fa-bullhorn fa-fw fa-spin"></i> Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! |
-|![IR-IS](./images/ir-is.png)| IR:IS <br> `Unity` <br> `C#`  <br> A 3D Infinite Runner Game. |
+|![TrashPanda](./images/trash-panda.PNG)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br><br> <i class="fas fa-bullhorn fa-fw"></i> Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! |
+|![IR-IS](./images/ir-is.png)| IR:IS <br> `Unity` `C#`  <br> A 3D Infinite Runner Game. |
 |![Shader](./images/shader.png)| Shader <br> `GLSL`    | 
-
+|![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
 
 <a id="self-intro"></a>
 ## About Me
