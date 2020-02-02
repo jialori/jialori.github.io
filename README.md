@@ -1,6 +1,7 @@
 
-# (If it looks messy, that means the site is currently under construction - come back in two days! :') ) 
+# (this site is currently **under construction** - come back in a day or two! ) 
 
+<a id="general"></a>
 ## What I Do 
 ##### Things I'm skilled at and passionate about.
 I enjoy learning and building at the intersection of technology and art:
@@ -9,8 +10,7 @@ I enjoy learning and building at the intersection of technology and art:
 - Computer Graphics
 - Artificial Intelligence
 
-<!-- * * * -->
-
+<a id="projects"></a>
 ## Projects
 ##### Some of my latest work.
 
@@ -30,8 +30,7 @@ I enjoy learning and building at the intersection of technology and art:
 |:-------------:|:------------------:|
 |              |  |   
 
-<!-- * * * -->
-
+<a id="self-intro"></a>
 ## About Me
 ##### Get to know me.
 
