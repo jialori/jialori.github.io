@@ -32,15 +32,14 @@
         <p><a href="#general">What I Do</a></p>
         <p><a href="#projects">Projects</a></p>
         <p><a href="#self-intro">About Me</a></p>
-        <p><a href="#contact">Contact</a></p>
-
-
+        <p>Contact</p>
+        <ul>
         <!-- TODO: add favicon -->
-        <i class="fas github"></i> <p class="view"><a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></p>
-        <i class="fas linkedin"></i> <p class="view"><a href="{{ site.linkedin }}" target="_blank">my LinkedIn</a></p>
-        <i class="fas envelope"></i><p class="view"> jialori.LJ@gmail.com </p>
-        <i class="fas map-marker-alt"></i> <p class="view"> Toronto, ON Canada </p>
-
+          <li><i class="fas fa-github"></i> <a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></li>
+          <li><i class="fas fa-linkedin"></i> <p><a href="{{ site.linkedin }}" target="_blank">my LinkedIn</a></p></li>
+          <li><i class="fas fa-envelope"></i><p> jialori.LJ@gmail.com </p></li>
+          <li><i class="fas fa-map-marker-alt"></i> <p> Toronto, ON Canada </p></li>
+        </ul>
 
         {% if site.show_downloads %}
         <ul class="downloads">
