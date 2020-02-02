@@ -44,12 +44,12 @@ You are welcome to view my portfolio, and feel free to get in touch!
 
 <!-- * * * -->
 
-<a id="contact"></a>
+<!-- <a id="contact"></a>
 ## Contact
 ##### Get in touch.
 - [GitHub](https://github.com/jialori)
 - [LinkedIn](https://www.linkedin.com/in/lori-jia-487030138/)
 - [Resume](https://drive.google.com/open?id=1xBoQev8nE7k00Np-H0JbqncXR44-roNY)
-
+ -->
 
 <!--PIXIV: https://www.pixiv.net/en/users/9644834 -->
