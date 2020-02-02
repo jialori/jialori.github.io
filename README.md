@@ -26,7 +26,7 @@ I enjoy learning and building at the intersection of technology and art:
 
 Hello! This is Lori Jia, a Computer Science student at The University of Toronto. Since I discovered my interest in creating games in September 2019, I've been working on two Unity games, _Trash Panda_ with a cross-disciplinary team, and _IR:IS_ by myself. 
 
-After I found my passion in games, I started to become interested in _Computer Graphics_. I spend hours on websites like Shadertoy to explore and learn. Academically, I focused on _Artificial Intelligence_ and _Theory of Computation_. I also enjoy designing and developing to solve pain points in life. 
+After I found my passion in games, I started to become interested in _Computer Graphics_. I spend hours on websites like Shadertoy to explore and learn. Academically, I focused on _Artificial Intelligence_ and _Theory of Computation_. I also enjoy designing and developing to solve pain points in everyday life. 
 
 At times when I'm not pondering design decisions, learning code, or cramming for school, I watch anime, draw, or swim. 
 
