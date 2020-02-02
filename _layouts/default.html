@@ -33,13 +33,17 @@
         <p><a href="#projects">Projects</a></p>
         <p><a href="#self-intro">About Me</a></p>
         <p>Contact</p>
-        <ul>
-        <!-- TODO: add favicon -->
-          <li><i class="fas fa-github"></i> <a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></li>
-          <li><i class="fas fa-linkedin"></i> <p><a href="{{ site.linkedin }}" target="_blank">my LinkedIn</a></p></li>
-          <li><i class="fas fa-envelope"></i><p> jialori.LJ@gmail.com </p></li>
-          <li><i class="fas fa-map-marker-alt"></i> <p> Toronto, ON Canada </p></li>
-        </ul>
+        <p class="view">
+          <i class="fas fa-github"></i> <a href="{{ site.github.owner_url }}" target="_blank"> GitHub </a>
+          <br>
+          <i class="fas fa-linkedin"></i> <a href="{{ site.linkedin }}" target="_blank"> LinkedIn </a>
+          <br>
+          <i class="fas fa-file"></i> <a href="{{ site.cv }}" target="_blank"> Resume </a>
+          <br>
+          <i class="fas fa-envelope"></i> jialori.LJ@gmail.com 
+          <br>
+          <i class="fas fa-map-marker-alt"></i>  Toronto, ON Canada 
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
