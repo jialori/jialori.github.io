@@ -22,14 +22,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}
-          <br>
-          <i class="fab fa-github fa-fw"></i>
-          <i class="fab fa-linkedin fa-fw">
-          <i class="fas fa-scroll fa-fw"><a href="{{ site.cv }}" target="_blank"/></i> 
-          <br>
-          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
-        </p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <p class="view" style="line-height: 200%;">
           <strong>Sections</strong>
@@ -44,15 +37,22 @@
         <p class="view" style="line-height: 200%;">
           Contact
           <br>
+          <i class="fab fa-github fa-fw"></i>
+          <i class="fab fa-linkedin fa-fw">
+          <i class="fas fa-scroll fa-fw"><a href="{{ site.cv }}" target="_blank"/></i> 
+          <br>
+          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
+          <br>
+          <i class="fas fa-map-marker-alt fa-fw"></i>  Toronto, ON
+
+<!--           <br>
           <i class="fab fa-github fa-fw"></i> <a href="{{ site.github.owner_url }}" target="_blank">  GitHub </a>
           <br>
           <i class="fab fa-linkedin fa-fw"></i> <a href="{{ site.linkedin }}" target="_blank">  LinkedIn </a>
           <br>
           <i class="fas fa-scroll fa-fw"></i> <a href="{{ site.cv }}" target="_blank">  Resume </a>
           <br>
-          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
-          <br>
-          <i class="fas fa-map-marker-alt fa-fw"></i>  Toronto, ON
+          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com -->
         </p>
 
         {% if site.show_downloads %}
