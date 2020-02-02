@@ -22,10 +22,17 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        <p>{{ site.description | default: site.github.project_tagline }}
+          <br>
+          <i class="fab fa-github fa-fw"></i>
+          <i class="fab fa-linkedin fa-fw">
+          <i class="fas fa-scroll fa-fw"><a href="{{ site.cv }}" target="_blank"/></i> 
+          <br>
+          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
+        </p>
+        
         <p class="view" style="line-height: 200%;">
-          <strong>Table of Content</strong>
+          <strong>Sections</strong>
           <br>
           <a href="#general">What I Do</a>
           <br>
@@ -35,7 +42,7 @@
         </p>
 
         <p class="view" style="line-height: 200%;">
-          <strong>Contact</strong>
+          Contact
           <br>
           <i class="fab fa-github fa-fw"></i> <a href="{{ site.github.owner_url }}" target="_blank">  GitHub </a>
           <br>
@@ -45,7 +52,7 @@
           <br>
           <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
           <br>
-          <i class="fas fa-map-marker-alt fa-fw"></i>  Toronto, ON Canada 
+          <i class="fas fa-map-marker-alt fa-fw"></i>  Toronto, ON
         </p>
 
         {% if site.show_downloads %}

@@ -14,7 +14,7 @@ I enjoy learning and building at the intersection of technology and art:
 ## Projects
 ##### Some of my latest work.
 
-| <img src="" width="300"/> | <img src="" width="250"/> |
+| <img src="" width="300"/> | <img src="" width="200"/> |
 |:-------------:|:------------------|
 |![TrashPanda](./images/trash-panda.PNG)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br><br> <i class="fas fa-bullhorn fa-fw"></i> Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! |
 |![IR-IS](./images/ir-is.png)| IR:IS <br> `Unity` `C#`  <br> A 3D Infinite Runner Game. |
