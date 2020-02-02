@@ -17,7 +17,7 @@ I enjoy learning and building at the intersection of technology and art:
 |  |  |
 |:-------------:|:------------------|
 | ![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
-|![TrashPanda](./images/trash-panda.PNG)| Trash Panda <br> `Unity`  `C#`|<br> A 3D Action Platform Game.  <br> :loudspeaker: Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! |
+|![TrashPanda](./images/trash-panda.PNG)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br> :loudspeaker: Check out our [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! |
 |![IR-IS](./images/ir-is.png)| IR:IS <br> `Unity` <br> `C#`  <br> A 3D Infinite Runner Game. |
 |![Shader](./images/shader.png)| Shader <br> `GLSL`    | 
 
