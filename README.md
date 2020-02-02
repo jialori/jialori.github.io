@@ -1,15 +1,19 @@
+
+# (If it looks messy, that means the site is currently under construction - come back in two days! :') ) 
+
 ## What I Do 
-<!-- ##### Things I'm skilled at and passionate about. -->
+##### Things I'm skilled at and passionate about.
 I enjoy learning and building at the intersection of technology and art:
 - Game Design
 - Game Development
 - Computer Graphics
 - Artificial Intelligence
 
-* * *
+<!-- * * * -->
 
 ## Projects
 ##### Some of my latest work.
+
 |Duet <br><br> `MERN stack`  |![DUET](./images/duet.png)    |
 |:-------------:|:------------------:|
 |              |  A One-Stop Licensing Solution for Starting Business Owners.  |
