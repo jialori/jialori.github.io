@@ -10,12 +10,11 @@ I enjoy learning and building at the intersection of technology and art:
 <a id="projects"></a>
 ## Projects
 ##### Some of my latest work.
-
 | <img src="" width="300"/> | <img src="" width="200"/> |
 |:-------------:|:------------------|
 |![TrashPanda](./images/trash-panda.gif)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! (2019.12.03) |
 |![IR-IS](./images/IR-IS-greybox.gif)| IR:IS <br> `Unity` `C#`  <br> A 3D Infinite Runner Game. <br> <i class="fas fa-bullhorn fa-fw"></i> Currently greyboxing and iterating mechanics! (2019.12.28) |
-|![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br> Modeling algorithm based on physics of mass string systems   | 
+|![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br> Fast modeling algorithm based on physics of mass string systems with optimized efficiency   | 
 |![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
 
 <a id="self-intro"></a>
