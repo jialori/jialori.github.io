@@ -9,5 +9,9 @@ table {
 
 th {
   padding:0;
-  border-bottom:0;
+  border-bottom:none;
+}
+
+td {
+	vertical-align: top;
 }
