@@ -13,8 +13,8 @@ I enjoy learning and building at the intersection of technology and art:
 
 | <img src="" width="300"/> | <img src="" width="200"/> |
 |:-------------:|:------------------|
-|![TrashPanda](./images/trash-panda.gif)| Trash Panda <br> `Unity`  `C#` <br> A 3D Action Platform Game.  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! (2019.12.03) |
-|![IR-IS](./images/IR-IS-greybox.gif)| IR:IS <br> `Unity` `C#`  <br> A 3D Infinite Runner Game. <br><br> <i class="fas fa-bullhorn fa-fw"></i> Currently greyboxing and iterating mechanics (2019.12.28) |
+|![TrashPanda](./images/trash-panda.gif)| Trash Panda <br> `Unity`  `C#` <br> A 3D action platform game.  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://drive.google.com/open?id=1usFyJ05wTuv_eQOb6xLRQSFDuo-eD2T3)! (2019.12.03) |
+|![IR-IS](./images/IR-IS-greybox.gif)| IR:IS <br> `Unity` `C#`  <br> A 3D infinite runner game. <br><br> <i class="fas fa-bullhorn fa-fw"></i> Currently greyboxing and iterating mechanics (2019.12.28) |
 |![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br> Fast modeling algorithm based on physics of mass string systems    | 
 |![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  |
 
