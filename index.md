@@ -25,7 +25,7 @@ Hello! This is Lori Jia, a Computer Science student at The University of Toronto
 
 After I found my passion for games, I started to become interested in _Computer Graphics_. I spend hours on websites like Shadertoy to explore and learn. Academically, I focused on _Artificial Intelligence_. As it may apply to every engineer, I also enjoy designing and developing for little pain points in everyday life. 
 
-At times when I'm not pondering design decisions, learning code, or cramming for school, I watch anime, <a href="./draw.md" target="_blank">draw</a>, or swim. 
+At times when I'm not pondering design decisions, learning code, or cramming for school, I watch anime, [draw](./draw.md), or swim. 
 
 You are welcome to view my portfolio, and feel free to get in touch!
 
