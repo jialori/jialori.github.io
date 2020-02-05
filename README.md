@@ -1,7 +1,3 @@
-## Hello!
-
-Welcome to my portfolio site!
-
 <a id="general"></a>
 ## What I Do 
 ##### Things I'm skilled at and passionate about.
@@ -24,7 +20,6 @@ I enjoy learning and building at the intersection of technology and art:
 
 <a id="self-intro"></a>
 ## About Me
-##### What species?
 
 Hello! This is Lori Jia, a Computer Science student at The University of Toronto. Since I discovered my interest in creating games in September 2019, I've been working on two Unity games, _Trash Panda_ with a cross-disciplinary team, and _IR:IS_ by myself. 
 
