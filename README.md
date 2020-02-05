@@ -1,3 +1,7 @@
+## Hello!
+
+Welcome to my portfolio site!
+
 <a id="general"></a>
 ## What I Do 
 ##### Things I'm skilled at and passionate about.
@@ -20,24 +24,15 @@ I enjoy learning and building at the intersection of technology and art:
 
 <a id="self-intro"></a>
 ## About Me
-##### Get to know me.
+##### What species?
 
 Hello! This is Lori Jia, a Computer Science student at The University of Toronto. Since I discovered my interest in creating games in September 2019, I've been working on two Unity games, _Trash Panda_ with a cross-disciplinary team, and _IR:IS_ by myself. 
 
-After I found my passion in games, I started to become interested in _Computer Graphics_. I spend hours on websites like Shadertoy to explore and learn. Academically, I focused on _Artificial Intelligence_ and _Theory of Computation_. I also enjoy designing and developing to solve pain points in everyday life. 
+After I found my passion for games, I started to become interested in _Computer Graphics_. I spend hours on websites like Shadertoy to explore and learn. Academically, I focused on _Artificial Intelligence_. As it may apply to every engineer, I also enjoy designing and developing for little pain points in everyday life. 
 
 At times when I'm not pondering design decisions, learning code, or cramming for school, I watch anime, draw, or swim. 
 
 You are welcome to view my portfolio, and feel free to get in touch!
 
-<!-- * * * -->
-
-<!-- <a id="contact"></a>
-## Contact
-##### Get in touch.
-- [GitHub](https://github.com/jialori)
-- [LinkedIn](https://www.linkedin.com/in/lori-jia-487030138/)
-- [Resume](https://drive.google.com/open?id=1xBoQev8nE7k00Np-H0JbqncXR44-roNY)
- -->
 
 <!--PIXIV: https://www.pixiv.net/en/users/9644834 -->
