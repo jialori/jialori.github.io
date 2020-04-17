@@ -2,8 +2,7 @@
 ## What I Do 
 ##### Things I'm skilled at and passionate about.
 I enjoy learning and building at the intersection of technology and art:
-- Game Design
-- Game Development
+- Game Design & Development
 - Computer Graphics
 - Artificial Intelligence
 
