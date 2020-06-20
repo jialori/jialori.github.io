@@ -11,7 +11,7 @@
 
 | <img src="" width="300"/> | <img src="" width="200"/> |
 |:-------------:|:------------------|
-|![Iris]()| Iris <br> `Unity`  `C#` `CG` `HLSL` <br> Audio visualizer|
+| pictures are scheduled to update soon (2020-06-20) | Iris <br> `Unity`  `C#` `CG` `HLSL` <br> Audio visualizer|
 |![TrashPanda](./images/trash-panda.gif)| TrashPanda <br> `Unity`  `C#` <br> 3D, game, casual  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://youtu.be/V5wO-z483DQ)! (2019.12.03) |
 |![IR-IS](./images/IR-IS-greybox.gif)| Infinity Space <br> `Unity` `C#`  <br> 3D, game, parkour <br><br> <i class="fas fa-bullhorn fa-fw"></i> Greyboxing and iterating mechanics (2019.12.28) |
 |![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br><br> Implemented the modeling algorithm from [this research paper](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf), a fast simulation solution for the physics of mass string systems.    | 
