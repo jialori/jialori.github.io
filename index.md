@@ -9,7 +9,7 @@
 ## Projects
 ##### Some latest work
 
-| <img src="" width="300"/> | <img src="" width="200"/> |
+| project | description |
 |:--------------|:------------------|
 |![TrashPanda](./images/trash-panda.gif)| TrashPanda <br> `Unity`  `C#` <br> 3D, game, casual  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://youtu.be/V5wO-z483DQ)! (2019.12.03) |
 |![IR-IS](./images/IR-IS-greybox.gif)| Infinity Space <br> `Unity` `C#`  <br> 3D, game, parkour <br><br> <i class="fas fa-bullhorn fa-fw"></i> Greyboxing and iterating mechanics (2019.12.28) |
