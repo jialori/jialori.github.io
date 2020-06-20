@@ -13,7 +13,7 @@
 |:--------------|:------------------|
 |![TrashPanda](./images/trash-panda.gif)| TrashPanda <br> `Unity`  `C#` <br> 3D, game, casual  <br><br> <i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://youtu.be/V5wO-z483DQ)! (2019.12.03) |
 |![IR-IS](./images/IR-IS-greybox.gif)| Infinity Space <br> `Unity` `C#`  <br> 3D, game, parkour <br><br> <i class="fas fa-bullhorn fa-fw"></i> Greyboxing and iterating mechanics (2019.12.28) |
-|![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br><br> Implemented the modeling algorithm from [this research paper](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf), a fast simulation solution for the physics of mass string systems.    | 
+|![Physics-based-rendering](./images/flag.gif)| Physics-based Mass String system <br> `C++` <br><br> Implemented the modeling algorithm from [this research paper](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf), a fast simulation solution for the physics of mass string systems.|
 <!-- |![TBD](./images/trash-panda.gif)| TBD <br> `Unity`  `C#` <br> A RTS game.  <br><br> We are collaborating with a game incubator program to build a RTS game. | -->
 <!-- |![DUET](./images/duet.png)| Duet <br> `MERN stack` <br> A One-Stop Licensing Solution for Starting Business Owners.  | -->
 <!-- I enjoy building at the intersection of technology and art.  -->
