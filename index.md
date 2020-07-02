@@ -10,6 +10,8 @@ I enjoy building at the intersaction of technology and art:
 ## Projects
 ##### Some latest work
 
+<img src="./images/audio_visualizer_20200701.gif" width="250px"> <br> Audio Visualizer <br> `Unity` `ShaderLab` <br> An experiment project where I create different visual effects and shaders that change with audio signals. <!-- create - actually play with -->
+* * *
 <img src="./images/flag.gif" width="250px"> <br> Physics-based Mass String system <br> `C++` <br> Implemented the modeling algorithm from [this research paper](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf), a fast simulation solution for the physics of mass string systems
 * * *
 <img src="./images/trash-panda.gif" width="250px"> <br> TrashPanda <br> `Unity`  `C#` <br> 3D, game, casual  <br><i class="fas fa-bullhorn fa-fw"></i> [Beta Trailer](https://youtu.be/V5wO-z483DQ)! (2019.12.03) 
