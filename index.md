@@ -1,9 +1,8 @@
 <a id="general"></a>
 ## What I Do 
 ##### Things I'm skilled at and passionate about
-I enjoy building at the intersaction of technology and art:
-- Computer Graphics & Game Development
-- Website Development
+- Product Design & Development
+- Computer Graphics
 - Artificial Intelligence
 
 <a id="projects"></a>
@@ -25,8 +24,7 @@ I enjoy building at the intersaction of technology and art:
 <a id="self-intro"></a>
 ## About Me
 
-Hello! This is Lori Jia, a graduating Computer Science student from the University of Toronto. I specialized in Artificial Intelligence when in school. My other favorite subfields of computer science are product design and computer graphics. My career pursuit is to develop products with great practical value or artistic sense. 
+Hello, my name is Lori Jia. I am a software developer currently working as an intern (remotely) in Tecent Interactive Entertainment Group. On my own time, I design and develop products and games. At times when I'm not coding, I [doodle](./draw.md) and binge-watch films.
+<!-- As a self-entitled designer, I believe technology makes lives better only when the we design them with conscientious minds.-->
 
-I build games and websites on my own time, you can see some of my work in the previous section. At times when I'm not coding up products or pondering design decisions, I [draw](./draw.md), watch films and anime, or swim.
-
-Thank you for viewing my portfolio. Please feel free to get in touch at jialori.LJ@gmail.com for career opportunities, any questions you may have, or just casual talks.
+Thank you for viewing my portfolio. Feel free to get in touch with me at jialori.LJ@gmail.com for career or collaboration opportunities, any questions you may have, or casual talks :).
