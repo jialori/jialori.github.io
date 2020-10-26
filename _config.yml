@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
-title: lori jia
-description: A portfolio site.
+title: Lori Jia
+# description: A portfolio site.
 linkedin: https://www.linkedin.com/in/lori-jia-487030138/ 
 cv: https://drive.google.com/file/d/1OnqUoCujEXrpVQYhGgjit8sMSuHw7-ze/view?usp=sharing
+google_analytics: true
+github.is_project_page: false
+markdown: GFM

@@ -16,7 +16,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}" class="main-title">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -24,36 +24,32 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p class="view" style="line-height: 200%;">
-          <strong>Sections</strong>
-          <br>
-          <a href="#general">What I Do</a>
-          <br>
-          <a href="#projects">Projects</a>
-          <br>
-          <a href="#self-intro">About Me</a>
+        <p class="view contact" style="line-height: 200%;">
+          <a href="{{ site.github.owner_url }}"  title="GitHub" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+          <a href="{{ site.linkedin }}"  title="LinkedIn" target="_blank"><i class="fab fa-linkedin fa-fw"></i></a>
+          <a href="{{ site.cv }}"  title="Resume" target="_blank"><i class="fas fa-scroll fa-fw"></i></a> 
         </p>
 
-        <p class="view" style="line-height: 200%;">
-          <strong>Contact</strong>
+        <h5> Areas of work</h5>
+        <code>Products</code>
+        <code>Games</code>
+        <br>
+        <code>Computer Graphics</code>
           <br>
-          <a href="{{ site.github.owner_url }}"  title="View my GitHub" target="_blank"><i class="fab fa-github fa-fw"></i></a>
-          <a href="{{ site.linkedin }}"  title="View my LinkedIn" target="_blank"><i class="fab fa-linkedin fa-fw"></i></a>
-          <a href="{{ site.cv }}"  title="View my resume" target="_blank"><i class="fas fa-scroll fa-fw"></i></a> 
-          <br>
-          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com 
-          <br>
-          <i class="fas fa-map-marker-alt fa-fw"></i>  Toronto, ON
+        <code>Artificial Intelligence</code>
 
-<!--           <br>
-          <i class="fab fa-github fa-fw"></i> <a href="{{ site.github.owner_url }}" target="_blank">  GitHub </a>
-          <br>
-          <i class="fab fa-linkedin fa-fw"></i> <a href="{{ site.linkedin }}" target="_blank">  LinkedIn </a>
-          <br>
-          <i class="fas fa-scroll fa-fw"></i> <a href="{{ site.cv }}" target="_blank">  Resume </a>
-          <br>
-          <i class="fas fa-envelope fa-fw"></i>  jialori.LJ@gmail.com -->
-        </p>
+        <div class="menu">
+          <h5 class="menu-title">Sections</h5>
+          <ul>
+            <li>
+              <a href="index#projects">Projects</a>
+            </li>
+            <li>
+              <a href="index#self-intro">About</a>  
+            </li>
+          </ul>
+        </div>
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -63,15 +59,15 @@
         </ul>
         {% endif %}
       </header>
-      <section>
+      <section class="content">
 
       {{ content }}
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <!-- {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        {% endif %} -->
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
